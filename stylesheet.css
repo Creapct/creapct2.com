@@ -1,1 +1,27 @@
+ul.over{
+     list-style: none;
+     display: flex;
+     justify-content:space-around;
+     margin: 0;
+     padding: 0;
+  }
+  .over li{
+     background: #fff;
+  }
+  .over img{
+     width: 24%;
+     height: auto;
+     display:;
+     opacity: 1;
+     transition: 0.2s;
+  }
+  .over img:hover{
+     opacity: 0.3;
+  }
+
+body{
+  background-color:#ffffff;
+  color:;
+}
+Footer
 
